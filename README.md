@@ -1,4 +1,6 @@
-# natbot
+# mikebot
+
+forked from @nat/natbot
 
 Drive a browser with GPT-3
 
